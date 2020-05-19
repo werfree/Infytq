@@ -12,9 +12,7 @@
 
 > ![validator.png](https://github.com/werfree/Infytq/blob/master/Image/validator.png?raw=true)
 
-##  Reverse String kepping special char in place
-
->  Find the position where the order of the bracket Breaks
+##  Reverse String keeping special char in place
 
 > ![reverse.png](https://github.com/werfree/Infytq/blob/master/Image/reverse.png?raw=true)
 
@@ -25,3 +23,9 @@
 ##  String Number
 
 > ![prefix.png](https://github.com/werfree/Infytq/blob/master/Image/stringNumber.png?raw=true)
+
+##  Substring
+
+> Find longest substring of min length 3 else print -1
+
+> ![prefix.png](https://github.com/werfree/Infytq/blob/master/Image/subString.png?raw=true)
