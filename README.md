@@ -21,3 +21,7 @@
 ##  Prefix Suffix
 
 > ![prefix.png](https://github.com/werfree/Infytq/blob/master/Image/prefix.png?raw=true)
+
+##  String Number
+
+> ![prefix.png](https://github.com/werfree/Infytq/blob/master/Image/stringNumber.png?raw=true)
